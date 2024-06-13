@@ -1,0 +1,10 @@
+template-file-path : ./stack-deployment-file.yaml
+
+parameters:
+  env: development
+  max_capacity: 5
+
+tags:
+  organization: axis
+
+
